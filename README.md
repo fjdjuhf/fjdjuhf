@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Meet Patel.
-- 👀 I’m interested in becoming the Artificial Intelligence Engineer.
-- 🌱 I’m currently learning Machine Learning and Deep Learning.
+- 👀 I’m interested in becoming Python developer.
+- 🌱 I’m currently pursuing Masters in Computer science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
